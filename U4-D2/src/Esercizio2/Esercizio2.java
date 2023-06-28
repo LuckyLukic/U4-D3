@@ -43,6 +43,8 @@ public class Esercizio2 {
 			System.out.println("Non abbiamo questo numero in memoria!");
 		    break;
 		}
+		
+		scanner.close();
 	}
 
 }
